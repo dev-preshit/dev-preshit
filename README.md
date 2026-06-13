@@ -2,5 +2,4 @@
 - 👋 Hi, I’m @dev-preshit
 - 👀 I’m interested in creating new short software on my own using AI effectively
 - 🌱 I’m currently learning for B-tech University degree in CSE(AIML)
-- 📫 To reach me email on preshit.kamble17705@gmail.com
-- ⚡ Fun fact: just want to be freelancer
+- 📫 To reach me email on preshit.work@gmail.com
